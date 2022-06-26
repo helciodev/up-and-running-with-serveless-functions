@@ -29,9 +29,9 @@
           const response = await fetch("./.netlify/functions/pokedex").then(
             (response) => response.json()
           );
+          const { data } = response;
+          console.log(data.results);
         });
-
-        console.log(response);
       });
     </script>
   </body>

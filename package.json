@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/helciodev/up-and-running-with-serveless-functions/issues"
   },
-  "homepage": "https://github.com/helciodev/up-and-running-with-serveless-functions#readme"
+  "homepage": "https://github.com/helciodev/up-and-running-with-serveless-functions#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
+  }
 }
