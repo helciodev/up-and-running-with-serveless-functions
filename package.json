@@ -1,0 +1,19 @@
+{
+  "name": "up-and-running-with-serveless-functions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helciodev/up-and-running-with-serveless-functions.git"
+  },
+  "author": "helcio andre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helciodev/up-and-running-with-serveless-functions/issues"
+  },
+  "homepage": "https://github.com/helciodev/up-and-running-with-serveless-functions#readme"
+}
