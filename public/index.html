@@ -29,8 +29,8 @@
           const response = await fetch("./.netlify/functions/pokedex").then(
             (response) => response.json()
           );
-          const { data } = response;
-          console.log(data.results);
+          const { pokemon: pokemons } = response;
+          console.log(pokemons);
         });
       });
     </script>
